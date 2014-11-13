@@ -1,7 +1,7 @@
 Z3-Query-Input-Video
 =====================
 
-      This app queries input video format and prints video width,height and frame rate. On running this app SDI lock will be achieved in the device.
+This app queries input video format and prints video width,height and frame rate. On running this app SDI lock will be achieved in the device.
 
 1) To build copy "C file" and CMakeLists.txt to avloop folder and build.
 2) Copy binary ```vquery``` to board and execute it.
